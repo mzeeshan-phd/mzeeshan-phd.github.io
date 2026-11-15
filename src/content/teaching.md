@@ -8,7 +8,16 @@ I have taught computer networks, security and core computer science courses at u
 
 ## Sohar University, Oman (2025 – present)
 
-- Switching and Routing Techniques (undergraduate)
+**Postgraduate**
+
+- Advanced Database Systems (2025–26)
+- Manage Software Security (2025–26)
+
+**Undergraduate**
+
+- Switching and Routing Techniques (2026–27)
+- Computer Architecture and Organization (2025–26)
+- Operating System (2025–26)
 
 ## National University of Sciences and Technology (NUST), Islamabad (2016 – 2025)
 
