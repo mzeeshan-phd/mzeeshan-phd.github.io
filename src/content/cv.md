@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 permalink: /cv/
-description: Curriculum vitae of Dr. Muhammad Zeeshan.
+description: Curriculum vitae of Muhammad Zeeshan, PhD, SMIEEE.
 ---
 
 [Download CV (PDF)](/files/Muhammad_Zeeshan_CV.pdf){: .btn .btn--info}

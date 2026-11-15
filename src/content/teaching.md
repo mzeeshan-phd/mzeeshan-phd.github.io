@@ -1,7 +1,7 @@
 ---
 title: Teaching
 permalink: /teaching/
-description: Courses taught by Dr. Muhammad Zeeshan at Sohar University, NUST and Iqra University.
+description: Courses taught by Muhammad Zeeshan, PhD, SMIEEE at Sohar University, NUST and Iqra University.
 ---
 
 I have taught computer networks, security and core computer science courses at undergraduate and postgraduate level since 2011. I treat every lecture as something to be reviewed and improved, set out learning objectives and grading policy at the start of a course, and use ungraded quizzes, peer review and project work so that students practise before they are assessed.

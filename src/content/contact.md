@@ -1,10 +1,10 @@
 ---
 title: Contact
 permalink: /contact/
-description: Contact details for Dr. Muhammad Zeeshan.
+description: Contact details for Muhammad Zeeshan, PhD, SMIEEE.
 ---
 
-**Dr. Muhammad Zeeshan**  
+**Muhammad Zeeshan, PhD, SMIEEE**  
 Associate Professor  
 Faculty of Computing and Information Technology  
 Sohar University, Sohar, Sultanate of Oman

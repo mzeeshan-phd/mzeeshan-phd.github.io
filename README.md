@@ -1,4 +1,4 @@
-# Dr. Muhammad Zeeshan
+# Muhammad Zeeshan, PhD, SMIEEE
 
 Associate Professor, Faculty of Computing and Information Technology, Sohar University, Oman. Senior Member, IEEE.
 

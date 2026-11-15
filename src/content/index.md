@@ -1,7 +1,7 @@
 ---
 title: About Me
 permalink: /
-description: Dr. Muhammad Zeeshan, Associate Professor at Sohar University, Oman. Research in AI-enabled cybersecurity, intrusion detection, IoT and computer networks.
+description: Muhammad Zeeshan, PhD, SMIEEE, Associate Professor at Sohar University, Oman. Research in AI-enabled cybersecurity, intrusion detection, IoT and computer networks.
 ---
 
 I am an **Associate Professor** in the Faculty of Computing and Information Technology at [Sohar University](https://www.su.edu.om/), Oman, and a **Senior Member of the IEEE**. I joined Sohar University in September 2025. I am also an Associate Professor at the School of Electrical Engineering and Computer Science (SEECS), [National University of Sciences and Technology (NUST)](https://seecs.nust.edu.pk/faculty/muhammad-zeeshan-3/), Islamabad, where I have been on the faculty since 2016 and continue to supervise postgraduate research.

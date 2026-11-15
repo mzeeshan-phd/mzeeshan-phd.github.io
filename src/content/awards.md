@@ -1,7 +1,7 @@
 ---
 title: Honors and Awards
 permalink: /awards/
-description: Honors, fellowships and awards of Dr. Muhammad Zeeshan.
+description: Honors, fellowships and awards of Muhammad Zeeshan, PhD, SMIEEE.
 ---
 
 - **Senior Member, IEEE**, since 2018.

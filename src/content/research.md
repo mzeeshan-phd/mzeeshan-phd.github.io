@@ -1,7 +1,7 @@
 ---
 title: Research
 permalink: /research/
-description: Research areas, funded projects and student supervision of Dr. Muhammad Zeeshan.
+description: Research areas, funded projects and student supervision of Muhammad Zeeshan, PhD, SMIEEE.
 ---
 
 My research sits at the intersection of artificial intelligence, network traffic analysis and real-world attack scenarios. The aim is intrusion detection and prevention that is adaptive, efficient and deployable inside the network, and that moves beyond models tuned to a single dataset.

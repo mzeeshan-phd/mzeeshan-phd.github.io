@@ -1,7 +1,7 @@
 ---
 title: Professional Services
 permalink: /services/
-description: Journal reviewing, conference committees and academic leadership of Dr. Muhammad Zeeshan.
+description: Journal reviewing, conference committees and academic leadership of Muhammad Zeeshan, PhD, SMIEEE.
 ---
 
 ## Journal Reviewer
