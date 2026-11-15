@@ -10,7 +10,7 @@ import markdown
 SRC = pathlib.Path(__file__).resolve().parent
 ROOT = SRC.parent
 # Public address of the site. Change this one line if the repository or account is renamed.
-SITE_URL = "https://mzeeshan-phd.github.io/mzeeshan-phd"
+SITE_URL = "https://mzeeshan-phd.github.io"
 SITE_TITLE = "Muhammad Zeeshan"
 NAV = [("Publications", "/publications/"), ("Research", "/research/"), ("Teaching", "/teaching/"),
        ("Services", "/services/"), ("Awards", "/awards/"),
