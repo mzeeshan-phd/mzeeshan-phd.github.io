@@ -9,7 +9,8 @@ import markdown
 
 SRC = pathlib.Path(__file__).resolve().parent
 ROOT = SRC.parent
-SITE_URL = "https://mzeeshanbhatti.github.io"
+# Public address of the site. Change this one line if the repository or account is renamed.
+SITE_URL = "https://mzeeshan-phd.github.io/mzeeshan-phd"
 SITE_TITLE = "Muhammad Zeeshan"
 NAV = [("Publications", "/publications/"), ("Research", "/research/"), ("Teaching", "/teaching/"),
        ("Services", "/services/"), ("Awards", "/awards/"),
@@ -31,12 +32,19 @@ def render(meta, body_html, today):
         for t, u in NAV)
     title = meta["title"]
     full_title = SITE_TITLE if url == "/" else f"{title} - {SITE_TITLE}"
-    return (SRC / "layout.html").read_text(encoding="utf-8").format(
+    page = (SRC / "layout.html").read_text(encoding="utf-8").format(
         full_title=html.escape(full_title), title=html.escape(title),
         description=html.escape(meta.get("description", "")),
         canonical=SITE_URL + url, nav=nav, home_selected=" selected" if url == "/" else "",
-        content=body_html, year=today.year, updated=today.isoformat(), site_title=SITE_TITLE)
-
+        content=body_html, year=today.year, updated=today.isoformat(), site_title=SITE_TITLE,
+        site_url=SITE_URL)
+    # Internal links are written as "/path" and made relative here, so the site works
+    # at any address (user site or project site). The 404 page gets full addresses.
+    if url == "/404.html":
+        prefix = SITE_URL + "/"
+    else:
+        prefix = "./" if url == "/" else "../"
+    return re.sub(r'(href|src)="/(?!/)', lambda m: f'{m.group(1)}="{prefix}', page)
 
 def main():
     today = datetime.date.today()

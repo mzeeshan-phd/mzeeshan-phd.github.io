@@ -1,13 +1,13 @@
-# mzeeshanbhatti.github.io
+# Dr. Muhammad Zeeshan
 
-Personal academic website of Dr. Muhammad Zeeshan: https://mzeeshanbhatti.github.io
+Associate Professor, Faculty of Computing and Information Technology, Sohar University, Oman. Senior Member, IEEE.
 
-## How to update
+I work on AI-enabled cybersecurity and networking: machine learning and deep learning for network intrusion detection and prevention, IoT and Industrial IoT security, phishing and URL classification, and encrypted traffic analysis.
 
-1. Edit the page text in `src/content/*.md` (for example `index.md` for the home page and news, `publications.md` for papers).
-2. Rebuild the pages: `pip install markdown` then `python3 src/build.py`.
-3. Commit and push. GitHub Pages serves the repository root.
+**Website:** https://mzeeshan-phd.github.io/mzeeshan-phd/
 
-The profile photo is `images/profile.jpg` and the downloadable CV is `files/Muhammad_Zeeshan_CV.pdf`.
+- [Publications](https://mzeeshan-phd.github.io/mzeeshan-phd/publications/)
+- [Research and grants](https://mzeeshan-phd.github.io/mzeeshan-phd/research/)
+- [Google Scholar](https://scholar.google.com.pk/citations?user=bIB6sP4AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-4417-1365) · [LinkedIn](https://www.linkedin.com/in/zeeshanbhatti/)
 
-Styling is from the [AcademicPages](https://github.com/academicpages/academicpages.github.io) theme (MIT licence, see `LICENSE-AcademicPages`).
+This repository holds the source of the website; see [src/README.md](src/README.md) for how to update it.
