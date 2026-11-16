@@ -1,61 +1,46 @@
 ---
 title: Teaching
 permalink: /teaching/
-description: Courses taught by Muhammad Zeeshan, PhD, SMIEEE at Sohar University, NUST and Iqra University.
+description: Courses, course design and teaching evaluations of Muhammad Zeeshan, PhD, SMIEEE.
 ---
 
-I have taught computer networks, security and core computer science courses at undergraduate and postgraduate level since 2011. I treat every lecture as something to be reviewed and improved, set out learning objectives and grading policy at the start of a course, and use ungraded quizzes, peer review and project work so that students practise before they are assessed.
+I have taught computer networks, security and core computer science at undergraduate and postgraduate level since 2011. I set out learning objectives and grading policy at the start of each course, and use ungraded quizzes, peer review and project work so that students practise before they are assessed.
+{: .lead}
 
-## Sohar University, Oman (2025 – present)
+## Teaching Evidence
 
-**Postgraduate**
+**Student evaluations.** Official end-of-course student evaluations at NUST, academic year 2023 – 24:
 
-- Advanced Database Systems (2025–26)
-- Manage Software Security (2025–26)
+| Course | Level | Term | Score (out of 100) | Rating | Responses |
+|---|---|---|---|---|---|
+| Computer Networks | Undergraduate | Fall 2023 | 90.50 | Excellent | 40 of 44 |
+| Wireless Sensor Networks | Postgraduate | Spring 2023 | 89.61 | Very Good | 23 of 26 |
+| Wireless Sensor Networks | Postgraduate | Spring 2024 | 84.29 | Very Good | 14 of 27 |
 
-**Undergraduate**
+**Course and curriculum design.**
 
-- Switching and Routing Techniques (2026–27)
-- Computer Architecture and Organization (2025–26)
-- Operating System (2025–26)
+- Designed the postgraduate course *AI-Enabled Networking and Cybersecurity* at NUST (Spring 2025).
+- Authored the university-level proposal to add a Networking track to the MS Computer Science degree at NUST.
+- Led curriculum review committees for the BSCS and BS Telecommunication programmes at Iqra University.
+- Experience with outcome-based education and programme accreditation as team lead; see [Leadership and Service](/service/).
 
-## National University of Sciences and Technology (NUST), Islamabad (2016 – 2025)
+## Courses Taught
 
-**Course designed**
+### Sohar University, Oman (2025 – present)
 
-- AI-Enabled Networking and Cybersecurity (Spring 2025)
+- **Postgraduate:** Advanced Database Systems (2025–26), Manage Software Security (2025–26)
+- **Undergraduate:** Switching and Routing Techniques (2026–27), Computer Architecture and Organization (2025–26), Operating System (2025–26)
 
-**Postgraduate**
+### National University of Sciences and Technology (NUST), Islamabad (2016 – 2025)
 
-- Wireless Networks (Spring 2017, 2018, 2019, 2020)
-- Performance Analysis of Networks (Spring 2021, 2022)
-- Wireless Sensor Networks (Spring 2023, 2024)
+- **Postgraduate:** AI-Enabled Networking and Cybersecurity (Spring 2025), Wireless Sensor Networks (Spring 2023, 2024), Performance Analysis of Networks (Spring 2021, 2022), Wireless Networks (Spring 2017 – 2020)
+- **Undergraduate:** Computer Networks (Fall 2018 – Fall 2023, Spring 2023), Operating Systems (Fall 2016, Fall 2017, Spring 2024), Computer Programming (Fall 2016, Spring 2025), Fundamentals of ICT (Fall 2020)
 
-**Undergraduate**
+### Iqra University, Islamabad Campus (2013 – 2016)
 
-- Computer Networks (Fall 2018 – Fall 2023, Spring 2023)
-- Operating Systems (Fall 2016, Fall 2017, Spring 2024)
-- Computer Programming (Fall 2016, Spring 2025)
-- Fundamentals of ICT (Fall 2020)
+- **Postgraduate:** Network Performance Analysis (Fall 2013), Advanced Data Networks (Spring 2014), Research Methods and Skills (Spring 2014, Fall 2014)
+- **Undergraduate:** Data Communication Networks, Network Programming and Communication Protocols, Integrated Services over Packet Networks, Computer Programming (C++), Data Structures, Computer Applications, Introduction to Computer Science
 
-## Iqra University, Islamabad Campus (2013 – 2016)
-
-**Postgraduate**
-
-- Network Performance Analysis (Fall 2013)
-- Advanced Data Networks (Spring 2014)
-- Research Methods and Skills (Spring 2014, Fall 2014)
-
-**Undergraduate**
-
-- Data Communication Networks (Summer 2013, Fall 2013, Spring 2014)
-- Network Programming and Communication Protocols (Summer 2014)
-- Integrated Services over Packet Networks (Spring 2013)
-- Computer Programming (C++) (Spring 2013)
-- Data Structures (Spring 2013)
-- Computer Applications (Summer 2014, Fall 2014)
-- Introduction to Computer Science (Fall 2014)
-
-## International Islamic University, Islamabad (2011 – 2012)
+### International Islamic University, Islamabad (2011 – 2012)
 
 - Visiting Faculty, Department of Computer Science and Software Engineering: undergraduate computer science courses.
